@@ -1,0 +1,2 @@
+# pokemongrader
+pokemongrader AI
